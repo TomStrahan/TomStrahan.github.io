@@ -1,1 +1,28 @@
 
+body{
+
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+
+}
+
+#NameDiv{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #19b5fe;
+  color: white;
+  font-size: 40px;
+}
+
+head{
+
+
+}
+
+header{
+
+
+}
